@@ -20,7 +20,8 @@ footer {
   grid-area: LogoRodape;
 }
 
-footer small {
+
+footer small, .footerName {
   color: white;
 }
 
