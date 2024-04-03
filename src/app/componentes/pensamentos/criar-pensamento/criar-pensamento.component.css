@@ -9,6 +9,7 @@
   margin: 5px;
   margin-top: 70px;
   width: 200px;
+  cursor: pointer;
 }
 
 .criar-pensamentos {
@@ -95,6 +96,20 @@
 
 input[type='radio'] {
   display: none;
+}
+
+.mensagem__error {
+  font-size: 12px;
+  margin-left: 5px;
+  color: red;
+  margin-top: -25px;
+  margin-bottom: 20px;
+}
+
+.botao__desabilitado {
+  margin: 5px;
+  margin-top: 70px;
+  width: 200px;
 }
 
 .radio-modelo label {
